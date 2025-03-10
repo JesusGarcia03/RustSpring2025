@@ -1,14 +1,18 @@
-fn borrow_to_mut_watchout() {
-    let mut word = "UT".to_string(); 
-    let ptr_mut = &mut word;
-    println!("{ptr_mut}");
-    let ptr_mut1 = &mut word;
-    println!("{word}");
-    //drop(ptr_mut1);
-
-   // println!("{ptr_mut}, {ptr_mut1}");
+enum Insurance{
+    Car(String),
+    House(u16),
 }
-
+impl Insurance{
+    fn show_info(&self){
+        match self{
+            Insurance::Car(model) => println!("my car model is {:?}",model),
+            Insurance::House(year) => println!("My house was built {:?}",year)
+        }
+    }
+}
 fn main(){
-    borrow_to_mut_watchout();
+    let car = Insurance::Car("BMW".to_string());
+    let house = "2004";
+    car.show_info();
+    house.show_info();
 }
