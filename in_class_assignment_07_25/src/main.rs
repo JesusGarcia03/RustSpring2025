@@ -26,9 +26,15 @@ fn main() {
         Student { major: String::new() },
         Student { major: String::new() },
     ];
+    
+    println!("Before assigning majors:");
+    for (i, student) in students.iter().enumerate() {
+        println!("Student {}: Major - '{}'", i + 1, student.major);
+    }
 
     let updated_students = update_majors(students, assign_major);
-
+    
+    println!("After assigning majors:");
     for (i, student) in updated_students.iter().enumerate() {
         println!("Student {}: Major - {}", i + 1, student.major);
     }
