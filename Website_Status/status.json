@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://npr.org",
+    "status": 200,
+    "response_time_ms": 258,
+    "timestamp": SystemTime { tv_sec: 1747123340, tv_nsec: 438337348 }
+  },
+  {
+    "url": "https://nih.gov",
+    "status": 200,
+    "response_time_ms": 561,
+    "timestamp": SystemTime { tv_sec: 1747123340, tv_nsec: 741589182 }
+  },
+  {
+    "url": "https://ted.com",
+    "status": 200,
+    "response_time_ms": 403,
+    "timestamp": SystemTime { tv_sec: 1747123340, tv_nsec: 842321751 }
+  },
+  {
+    "url": "https://archive.org",
+    "status": 200,
+    "response_time_ms": 129,
+    "timestamp": SystemTime { tv_sec: 1747123340, tv_nsec: 871487724 }
+  },
+  {
+    "url": "https://duckduckgo.com",
+    "status": 200,
+    "response_time_ms": 206,
+    "timestamp": SystemTime { tv_sec: 1747123341, tv_nsec: 48955512 }
+  },
+  {
+    "url": "https://twitter.com",
+    "status": 200,
+    "response_time_ms": 276,
+    "timestamp": SystemTime { tv_sec: 1747123341, tv_nsec: 148444532 }
+  },
+  {
+    "url": "https://facebook.com",
+    "status": 200,
+    "response_time_ms": 718,
+    "timestamp": SystemTime { tv_sec: 1747123341, tv_nsec: 767736890 }
+  },
+  {
+    "url": "https://instagram.com",
+    "status": 200,
+    "response_time_ms": 961,
+    "timestamp": SystemTime { tv_sec: 1747123342, tv_nsec: 110180881 }
+  },
+  {
+    "url": "https://pinterest.com",
+    "status": 200,
+    "response_time_ms": 380,
+    "timestamp": SystemTime { tv_sec: 1747123342, tv_nsec: 148096391 }
+  },
+  {
+    "url": "https://discord.com",
+    "status": 200,
+    "response_time_ms": 79,
+    "timestamp": SystemTime { tv_sec: 1747123342, tv_nsec: 190122735 }
+  },
+  {
+    "url": "https://twitch.tv",
+    "status": 200,
+    "response_time_ms": 102,
+    "timestamp": SystemTime { tv_sec: 1747123342, tv_nsec: 250826976 }
+  },
+  {
+    "url": "https://airbnb.com",
+    "status": 200,
+    "response_time_ms": 610,
+    "timestamp": SystemTime { tv_sec: 1747123342, tv_nsec: 861203906 }
+  },
+  {
+    "url": "https://linkedin.com",
+    "status": 200,
+    "response_time_ms": 293,
+    "timestamp": SystemTime { tv_sec: 1747123343, tv_nsec: 154553514 }
+  },
+  {
+    "url": "https://booking.com",
+    "status": 200,
+    "response_time_ms": 1662,
+    "timestamp": SystemTime { tv_sec: 1747123343, tv_nsec: 852820223 }
+  },
+  {
+    "url": "https://mozilla.org",
+    "status": 200,
+    "response_time_ms": 221,
+    "timestamp": SystemTime { tv_sec: 1747123344, tv_nsec: 74332860 }
+  },
+  {
+    "url": "https://weather.com",
+    "status": 200,
+    "response_time_ms": 1000,
+    "timestamp": SystemTime { tv_sec: 1747123344, tv_nsec: 155280317 }
+  },
+  {
+    "url": "https://cloudflare.com",
+    "status": 200,
+    "response_time_ms": 713,
+    "timestamp": SystemTime { tv_sec: 1747123344, tv_nsec: 787923638 }
+  },
+  {
+    "url": "https://dropbox.com",
+    "status": 200,
+    "response_time_ms": 196,
+    "timestamp": SystemTime { tv_sec: 1747123344, tv_nsec: 984878198 }
+  },
+  {
+    "url": "https://zoom.us",
+    "status": 200,
+    "response_time_ms": 207,
+    "timestamp": SystemTime { tv_sec: 1747123345, tv_nsec: 192339503 }
+  },
+  {
+    "url": "https://paypal.com",
+    "status": 200,
+    "response_time_ms": 1075,
+    "timestamp": SystemTime { tv_sec: 1747123345, tv_nsec: 230937724 }
+  },
+  {
+    "url": "https://khanacademy.org",
+    "status": 200,
+    "response_time_ms": 395,
+    "timestamp": SystemTime { tv_sec: 1747123345, tv_nsec: 626091901 }
+  },
+  {
+    "url": "https://udemy.com",
+    "status": 403,
+    "response_time_ms": 201,
+    "timestamp": SystemTime { tv_sec: 1747123345, tv_nsec: 827492828 }
+  },
+  {
+    "url": "https://spotify.com",
+    "status": 200,
+    "response_time_ms": 681,
+    "timestamp": SystemTime { tv_sec: 1747123345, tv_nsec: 873896148 }
+  },
+  {
+    "url": "https://quora.com",
+    "status": 200,
+    "response_time_ms": 437,
+    "timestamp": SystemTime { tv_sec: 1747123346, tv_nsec: 311268330 }
+  },
+  {
+    "url": "https://medium.com",
+    "status": 200,
+    "response_time_ms": 101,
+    "timestamp": SystemTime { tv_sec: 1747123346, tv_nsec: 412541449 }
+  },
+  {
+    "url": "https://etsy.com",
+    "status": 403,
+    "response_time_ms": 154,
+    "timestamp": SystemTime { tv_sec: 1747123346, tv_nsec: 567039265 }
+  },
+  {
+    "url": "https://ebay.com",
+    "status": 200,
+    "response_time_ms": 339,
+    "timestamp": SystemTime { tv_sec: 1747123346, tv_nsec: 906105261 }
+  },
+  {
+    "url": "https://bing.com",
+    "status": 200,
+    "response_time_ms": 150,
+    "timestamp": SystemTime { tv_sec: 1747123347, tv_nsec: 56741192 }
+  },
+  {
+    "url": "https://yahoo.com",
+    "status": 429,
+    "response_time_ms": 363,
+    "timestamp": SystemTime { tv_sec: 1747123347, tv_nsec: 420380647 }
+  },
+  {
+    "url": "https://openai.com",
+    "status": 403,
+    "response_time_ms": 39,
+    "timestamp": SystemTime { tv_sec: 1747123347, tv_nsec: 459730731 }
+  },
+  {
+    "url": "https://netflix.com",
+    "status": 200,
+    "response_time_ms": 979,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 439630000 }
+  },
+  {
+    "url": "https://coursera.org",
+    "status": 200,
+    "response_time_ms": 2626,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 453590637 }
+  },
+  {
+    "url": "https://apple.com",
+    "status": 200,
+    "response_time_ms": 205,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 644709253 }
+  },
+  {
+    "url": "https://cnn.com",
+    "status": 200,
+    "response_time_ms": 105,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 750616735 }
+  },
+  {
+    "url": "https://github.com",
+    "status": 200,
+    "response_time_ms": 178,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 929176728 }
+  },
+  {
+    "url": "https://stackoverflow.com",
+    "status": 403,
+    "response_time_ms": 68,
+    "timestamp": SystemTime { tv_sec: 1747123348, tv_nsec: 997935187 }
+  },
+  {
+    "url": "https://bbc.com",
+    "status": 200,
+    "response_time_ms": 331,
+    "timestamp": SystemTime { tv_sec: 1747123349, tv_nsec: 329652278 }
+  },
+  {
+    "url": "https://nytimes.com",
+    "status": 200,
+    "response_time_ms": 181,
+    "timestamp": SystemTime { tv_sec: 1747123349, tv_nsec: 510869624 }
+  },
+  {
+    "url": "https://amazon.com",
+    "status": 200,
+    "response_time_ms": 428,
+    "timestamp": SystemTime { tv_sec: 1747123349, tv_nsec: 939589312 }
+  },
+  {
+    "url": "https://reddit.com",
+    "status": 403,
+    "response_time_ms": 51,
+    "timestamp": SystemTime { tv_sec: 1747123349, tv_nsec: 991426458 }
+  },
+  {
+    "url": "https://wikipedia.org",
+    "status": 200,
+    "response_time_ms": 452,
+    "timestamp": SystemTime { tv_sec: 1747123350, tv_nsec: 443751038 }
+  },
+  {
+    "url": "https://google.com",
+    "status": 200,
+    "response_time_ms": 129,
+    "timestamp": SystemTime { tv_sec: 1747123350, tv_nsec: 573607521 }
+  },
+  {
+    "url": "https://example.com",
+    "status": 200,
+    "response_time_ms": 71,
+    "timestamp": SystemTime { tv_sec: 1747123350, tv_nsec: 645394017 }
+  },
+  {
+    "url": "https://randomsite.tld",
+    "status": "error sending request for url (https://randomsite.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+    "response_time_ms": 222,
+    "timestamp": SystemTime { tv_sec: 1747123350, tv_nsec: 867595380 }
+  },
+  {
+    "url": "https://utrgv.edu",
+    "status": 200,
+    "response_time_ms": 357,
+    "timestamp": SystemTime { tv_sec: 1747123351, tv_nsec: 224722615 }
+  },
+  {
+    "url": "https://thisurldoesnotexist.tld",
+    "status": "error sending request for url (https://thisurldoesnotexist.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+    "response_time_ms": 309,
+    "timestamp": SystemTime { tv_sec: 1747123351, tv_nsec: 534166158 }
+  },
+  {
+    "url": "https://httpstat.us/404",
+    "status": 404,
+    "response_time_ms": 207,
+    "timestamp": SystemTime { tv_sec: 1747123351, tv_nsec: 741839584 }
+  },
+  {
+    "url": "https://httpstat.us/503",
+    "status": 503,
+    "response_time_ms": 43,
+    "timestamp": SystemTime { tv_sec: 1747123351, tv_nsec: 785478423 }
+  },
+  {
+    "url": "https://httpstat.us/200",
+    "status": 200,
+    "response_time_ms": 53,
+    "timestamp": SystemTime { tv_sec: 1747123351, tv_nsec: 839178140 }
+  },
+  {
+    "url": "https://microsoft.com",
+    "status": "error sending request for url (https://microsoft.com/): operation timed out",
+    "response_time_ms": 5100,
+    "timestamp": SystemTime { tv_sec: 1747123353, tv_nsec: 553923103 }
+  }
+]
